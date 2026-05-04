@@ -3,7 +3,7 @@ from pathlib import Path
 
 # ТВОИ ДАННЫЕ
 BOT_TOKEN = "8306979857:AAHz6mJipjg0kYnJVXhapTe2FgxTKbP1J7s"
-GROUP_ID  = "-5123352957"
+GROUP_ID  = "-1003993722465"
 API_URL   = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
 
 def run_diagnostic():
